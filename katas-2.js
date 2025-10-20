@@ -177,6 +177,7 @@
 
 /* FUNCTION nextScoop(scoop)
  * initialize a variable called flavor, prompt for "Flavor for scoop number [scoop]"
+ * return the flavor
  * @param: scoop (integer)
  * @return: flavor (string)
  */

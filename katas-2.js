@@ -170,7 +170,7 @@
 /* FUNCTION scoopLoop(scoops) 
  * start scoop at 1 and loop while scoop is less than or equal to scoops
  * inside the loop add nextScoop(scoop) to myScoops
- * after the loop's done, display "Here's your cone with " myScoops
+ * after the loop's done, display myScoops
  * @param: scoops (integer)
  * @return: none
  */
